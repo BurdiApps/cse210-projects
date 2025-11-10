@@ -1,0 +1,10 @@
+# Personal learning notes (keep private)
+LEARNING_NOTES.md
+
+# Test journal files
+*.json
+*.txt
+
+# Build artifacts (already ignored by parent .gitignore, but just in case)
+bin/
+obj/
